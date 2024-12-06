@@ -10,6 +10,14 @@ body {
   min-height: 100vh;
 }
 
+h1 {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: #0f0;
+}
+
 .spark {
   position: absolute;
   height: 40px;
